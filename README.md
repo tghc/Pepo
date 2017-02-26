@@ -13,4 +13,4 @@ If you want to find/contribute your own this is how I find them quickly
 
 #[Resources]
 
-##thanks
+##[Thanks]
