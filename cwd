@@ -1,0 +1,10 @@
+Name,Vendor,FileName,Version,dll_not_found,point_of_compromise,service_catagory,web_address,misc
+VIP Access,Symantec,VIPAccessSetup.exe,2.2.3.3,otplha.dll,installer,2FA,https://vip.symantec.com/,
+yubico-windows-auth,Yubico,yubico-windows-auth.exe,2.0.81.0,yubico-windows-authENU.dll,installer,2fa,https://www.yubico.com/why-yubico/for-businesses/computer-login/windows-login/,
+MonHSM,Yubico,MonHSM.exe,0.9.0.1,MonHSMENU.dll,exe,https://www.yubico.com/products/yubihsm/,
+jiraclient, ALMWorks,jiraclient-3_8_1.exe,3.8.9212.16,shfolder.dll,installer,https://marketplace.atlassian.com/plugins/com.almworks.jira.plugin.jiraclient/server/overview
+Adobe Digital Editions 4.5.3, Adobe, ADE_4.5_Installer.exe,4.5.3.0,RichEd20.dll,installer,http://www.adobe.com/pl/products/digital-editions/download.html,
+Skype Winddows,Microsoft,SypeSetupFull.exe,7.30.80.105,cryptui.dll,installer,https://www.skype.com/en/download-skype/skype-for-windows/,
+
+
+
